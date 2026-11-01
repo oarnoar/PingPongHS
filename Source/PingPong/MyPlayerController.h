@@ -10,6 +10,5 @@
 UCLASS()
 class PINGPONG_API AMyPlayerController : public APlayerController
 {
-	GENERATED_BODY()
-	
+	GENERATED_BODY();
 };
